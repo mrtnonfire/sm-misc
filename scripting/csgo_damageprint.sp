@@ -1,8 +1,8 @@
 #include <cstrike>
 #include <sourcemod>
 
-#include "include/common.inc"
-#include "include/csgo_common.inc"
+#include <common>
+#include <csgo_common>
 
 #pragma semicolon 1
 #pragma newdecls required
